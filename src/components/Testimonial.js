@@ -9,15 +9,14 @@ const Testimonial = () => {
         <p className="primary-subheading">Testimonial</p>
         <h1 className="primary-heading">What They Are Saying</h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        Movement flows through the structure. Elements are now placed without a clear pattern. Life grows with time, held back only by subtle control. The gateway leads to balanced motion shaped by gentle variation.
         </p>
       </div>
       <div className="testimonial-section-bottom">
         <img src={ProfilePic} alt="" />
         <p>
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        The path was shaped by time, yet there was no urgency. No true value rests in a single, rigid form. Life moves with ease now, where simplicity and subtlety come together in harmony.
+
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />
